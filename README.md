@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 
-### 🔭 I’m currently working on learn
-### 🌱 I’m currently learning Junior web developer
+### 🔭 I’m currently working on learn.
+### 🌱 I’m currently learning Junior web developer.
+### 🏆 I am a technician in microinformatic systems and networks.
+
+### 📬 manuelfreire82@hotmail.com
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
